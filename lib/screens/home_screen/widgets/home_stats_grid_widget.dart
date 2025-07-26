@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smart_home_dashboard/screens/home_screen.dart';
+import 'package:smart_home_dashboard/screens/home_screen/widgets/stat_card_item_widget.dart';
 
 class HomeStatsGrid extends StatelessWidget {
   final double temperature;
