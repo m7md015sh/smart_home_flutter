@@ -85,13 +85,6 @@ class _SmartHomeDashboardState extends State<SmartHomeDashboard>
     );
   }
 
-  Widget _buildHeader() {
-    return Container(
-      padding: const EdgeInsets.all(24),
-      child: const SizedBox(height: 32),
-    );
-  }
-
   Widget _buildContent() {
     switch (_selectedIndex) {
       case 0:
