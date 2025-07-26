@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text(
-                      'مرحباً أحمد',
+                      'مرحباً محمد',
                       style: TextStyle(
                         fontSize: 28,
                         fontWeight: FontWeight.bold,
